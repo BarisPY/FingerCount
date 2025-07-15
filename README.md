@@ -16,10 +16,10 @@ Bu Python projesi, bir web kamerası kullanarak gerçek zamanlı olarak gösteri
 
 1. Bu depoyu klonlayın:
 ```bash
-git clone https://github.com/kullaniciadiniz/fingercount.git
+git clone https://github.com/BarisPY/FingerCount
 ```
 ```bash
-cd fingercount
+cd FingerCount
 ```
 
 2. Gerekli paketleri yükleyin:
